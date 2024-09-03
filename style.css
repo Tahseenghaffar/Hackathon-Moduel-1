@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.container-1{
+    max-width: 94%;
+    min-width: 44%;
+    margin-left: 3%;
+}
 .nav-bar{
     margin-top: 2%;
     background-color: white;
@@ -156,7 +160,7 @@
     margin-top: 5%;
 }
 .col-3-6{
-    width: 83%;
+    width: 100%;
     background-color: #f3f3f3;
     border: 1px solid black;
     box-shadow: 0 3px 1px black;
@@ -183,7 +187,7 @@
     width: 10%;
 }
 .col-2-6{
-    width: 83%;
+    width: 100%;
     background-color: #B9FF66;
     border: 1px solid black;
     box-shadow: 0 3px 1px black;
@@ -217,4 +221,68 @@
     display: flex;
     justify-content: center;
     margin-right: 3%;
+}
+/* Section-6 end */
+/* Section-7 Start */
+.section-7{
+    width: 100%;
+}
+.col-1-7{
+    width: 23%;
+}
+.col-2-7{
+    width: 24%;
+}
+.col-3-7{
+    width: 53%;
+}
+/* Section-7 end */
+/* Section-8 Start */
+.section-8{
+    width: 100%;
+    background-color: #f3f3f3;
+    height: 10%;
+    display: flex;
+    border: 1px solid #f3f3f3;
+    border-radius: 14px;
+    margin-top: 5%;
+}
+.first{
+    width: 64%;
+    margin-left: 5%;
+}
+label{
+    font-size: 17px;
+    font-weight: 600;
+}
+#input{
+    width: 70%;
+    padding: 2% 0% 2% 4%;
+    border: 1.8px solid black;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    margin-top: 0.7%;
+}
+#input-3{
+    width: 70%;
+    padding: 2% 0% 15% 4%;
+    border: 1.8px solid black;
+    border-radius: 14px;
+    margin-top: 0.7%;
+}
+#input-btn{
+    width: 70%;
+    padding: 1.7% 2% 1.7% 2%;
+    background-color: black;
+    color: white;
+    margin-top: 4%;
+    letter-spacing: 0.3em;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+.second{
+    width: 36%;
+    margin-bottom: -6%;
+    margin-right: -3%;
+    margin-top: 6%;
 }
