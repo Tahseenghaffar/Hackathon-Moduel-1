@@ -286,3 +286,40 @@ label{
     margin-right: -3%;
     margin-top: 6%;
 }
+/* Section-8 End */
+/* Section-9 Start */
+.section-9{
+    width: 100%;
+    background-color: #1a1a24;
+    border-radius: 15px 15px 0 0;
+    margin-top: 5%;
+}
+.footer{
+    padding: 3% 1.5% ;
+}
+.footer-navbar{
+    color: #cacbd0;
+    font-weight: 500;
+    text-decoration: underline;
+}
+.footer-section-1{
+    width: 90%;
+}
+.col-9-1{
+    width: 40%;
+    margin-left: 3%;
+    line-height: 22px;
+}
+.col-9-2{
+    width: 60%;
+    display: flex;
+    background-color: #2a2a32;
+    border: 1px solid #2a2a32;
+    border-radius: 15px;
+    height: 145px;
+}
+.footer-section-2{
+    width: 90%;
+    display: flex;
+    margin-left: 3%;
+}
